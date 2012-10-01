@@ -30,6 +30,7 @@ console.log(levenshtein('Nathan Rajlich', 'TJ Holowaychuk'));
 
 More info at: http://phpjs.org
 
+```
 This is version: 3.26
 php.js is copyright 2011 Kevin van Zonneveld.
 
@@ -152,6 +153,6 @@ IN NO EVENT SHALL KEVIN VAN ZONNEVELD BE LIABLE FOR ANY CLAIM, DAMAGES
 OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
-
+```
 
 [wiki]: http://wikipedia.org/wiki/Levenshtein_distance
