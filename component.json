@@ -1,0 +1,13 @@
+
+{
+  "name": "levenshtein",
+  "repo": "component/levenshtein",
+  "description": "The \"Levenshtein Distance\" algorithm",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {}
+  "scripts": [
+    "index.js"
+  ]
+}
