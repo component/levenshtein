@@ -1,5 +1,5 @@
 {
-  "name": "levenshtein",
+  "name": "levenshtein-component",
   "description": "The \"Levenshtein Distance\" algorithm",
   "version": "0.0.1",
   "main": "index.js",
