@@ -3,11 +3,14 @@
   "description": "The \"Levenshtein Distance\" algorithm",
   "version": "0.0.1",
   "main": "index.js",
-  "dependencies": {
-  },
+  "dependencies": {},
   "component": {
     "scripts": {
       "levenshtein": "index.js"
     }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/component/levenshtein.git"
   }
 }
