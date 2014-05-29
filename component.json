@@ -2,7 +2,7 @@
   "name": "levenshtein",
   "repo": "component/levenshtein",
   "description": "The \"Levenshtein Distance\" algorithm",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [],
   "dependencies": {},
   "development": {},

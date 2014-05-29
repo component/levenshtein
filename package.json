@@ -1,7 +1,7 @@
 {
   "name": "levenshtein-component",
   "description": "The \"Levenshtein Distance\" algorithm",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "dependencies": {},
   "component": {
